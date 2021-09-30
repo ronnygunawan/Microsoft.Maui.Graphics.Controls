@@ -5,7 +5,7 @@ namespace Microsoft.Maui.Graphics.Controls.Hosting
 {
     public static class AppHostBuilderExtensions
     {
-        public static IAppHostBuilder ConfigureGraphicsControls(this IAppHostBuilder builder)
+        public static MauiAppBuilder ConfigureGraphicsControls(this MauiAppBuilder builder)
         {
             builder.ConfigureMauiHandlers(handlers =>
              {
