@@ -9,9 +9,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{4F00
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{465D03D3-BA73-4E52-BBEA-02DC54647BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsControls.Sample", "GraphicsControls.Sample\GraphicsControls.Sample\GraphicsControls.Sample.csproj", "{E2B7FB75-A083-4010-835E-C03CF18E18D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphicsControls.Sample", "GraphicsControls.Sample\GraphicsControls.Sample\GraphicsControls.Sample.csproj", "{E2B7FB75-A083-4010-835E-C03CF18E18D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsControls.Sample.WinUI", "GraphicsControls.Sample\GraphicsControls.Sample.WinUI\GraphicsControls.Sample.WinUI.csproj", "{02D470CC-4A4F-464D-ACE8-0EC2FCD9E9B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphicsControls.Sample.WinUI", "GraphicsControls.Sample\GraphicsControls.Sample.WinUI\GraphicsControls.Sample.WinUI.csproj", "{02D470CC-4A4F-464D-ACE8-0EC2FCD9E9B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9CDCECF-6A76-4396-B76D-D462D0CCB876}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
